@@ -11,6 +11,6 @@
 + [ ] FZU 2150 Fire Game
 + [ ] UVA 11624 Fire!
 + [x] POJ 3984 迷宫问题
-+ [ ] HDU 1241 Oil Deposits
++ [x] HDU 1241 Oil Deposits
 + [x] HDU 1495 非常可乐
 + [x] HDU 2612 Find a way
