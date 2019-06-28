@@ -14,3 +14,14 @@
 + [x] HDU 1241 Oil Deposits
 + [x] HDU 1495 非常可乐
 + [x] HDU 2612 Find a way
+#### 2.Advanced Searching
++ [x] HDU 1043 Eight
++ [ ] HDU 3567 Eight II
++ [ ] HDU 2181 哈密顿绕行世界问题
++ [ ] HDU 3533 Escape
++ [ ] HDU 1560 DNA sequence
++ [ ] ZOJ 2477 Magic Cube
++ [ ] HDU 3085 Nightmare Ⅱ
++ [ ] HDU 1067 Gap
++ [ ] HDU 2102 A计划
++ [ ] HDU 3001 Travelling
